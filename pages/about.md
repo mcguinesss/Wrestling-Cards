@@ -23,4 +23,5 @@ Collection consists of 42 wrestling cards. Each card features a photograph of an
  7. "Wee" Willie Davis 649
  8. Cardiff Giant 649
  9. Ralph Martin
+ 10. Jack Claybourne 230
 
