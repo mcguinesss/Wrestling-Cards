@@ -1,5 +1,4 @@
 {% comment %}
-{% include feature/item-figure.html objectid="Sandy_ODonnell" width="50" float="left" caption=false %}
     Item figure from objectid.
     This include adds a figure to the page styled using bootstrap, https://getbootstrap.com/docs/4.5/content/figures/
     It requires an "objectid" with the include, which is used to find the object title and image (for image or youtube objects).
@@ -13,6 +12,8 @@
     - "caption" = false
     - "float" = "right"
 {%- endcomment -%}
+{% include feature/item-figure.html objectid="Sandy_ODonnell" width="50" float="left" caption=false %}
+
 {%- assign figures = include.objectid | split: ";" %}
 <div class="row">
     {% for i in figures %}
