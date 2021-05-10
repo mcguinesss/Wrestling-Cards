@@ -1,20 +1,5 @@
-{% comment %}
-    Item figure from objectid.
-    This include adds a figure to the page styled using bootstrap, https://getbootstrap.com/docs/4.5/content/figures/
-    It requires an "objectid" with the include, which is used to find the object title and image (for image or youtube objects).
-    If multiple objectids are included (separated by ; ), they will be added to a "col-md" in a row which will automatically divided equally. 
-
-    E.G. --> {% include feature/item-figure.html objectid="demo_001" %}
-
-    Options: 
-    - "objectid" = 
-    - "width" = 50
-    - "caption" = false
-    - "float" = "right"
-{%- endcomment -%}
 {% include feature/item-figure.html objectid="Sandy_ODonnell" width="50" float="left" caption=false %}
 
-{%- assign figures = include.objectid | split: ";" %}
 <div class="row">
     {% for i in figures %}
     {%- assign figure = site.data[site.metadata] | where: "objectid", i | first -%}
