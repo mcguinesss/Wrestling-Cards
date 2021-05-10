@@ -14,6 +14,7 @@
     - "float" = "right"
 {%- endcomment -%}
 {%- assign figures = include.objectid | split: ";" %}
+{% include feature/item-figure.html objectid="Sandy_ODonnell.jpg" width="50" float="left" caption=false %}
 <div class="row">
     {% for i in figures %}
     {%- assign figure = site.data[site.metadata] | where: "objectid", i | first -%}
@@ -27,4 +28,3 @@
     </div>
     {% endfor %}
 </div>
-{% include feature/item-figure.html objectid="Sandy_ODonnell.jpg" width="50" float="left" caption=false %}
