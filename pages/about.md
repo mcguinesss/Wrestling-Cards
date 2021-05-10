@@ -15,7 +15,7 @@ Collection consists of 42 wrestling cards. Each card features a photograph of an
  
  # List of Cards
  1. Kay Bell 959
- 2. Stranger Lewis 471
+ 2. Strangler Lewis 471
  3. Bobby Becker
  4. Terry McGinnis 834
  5. Larry Moquin 458
