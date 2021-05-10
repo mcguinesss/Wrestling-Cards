@@ -28,7 +28,7 @@ Collection consists of 42 wrestling cards. Each card features a photograph of an
  12. Mike Sharpe 142,704,599, 615
  13. The Masked Marvel 742
  14. Yukon Eric 40
- 15. Bronco Nagurski 764
+ 15. Bronko Nagurski 764
  16. "Whipper" Bill Watson 692
  17. John Katan 341
  18. Earl McCready 928
