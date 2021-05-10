@@ -1,6 +1,7 @@
 {% include feature/item-figure.html objectid="Sandy_ODonnell" width="50" float="left" caption=false %}
 
 <div class="row">
+    {% include feature/item-figure.html objectid="Sandy_ODonnell" width="50" float="left" caption=false %}
     {% for i in figures %}
     {%- assign figure = site.data[site.metadata] | where: "objectid", i | first -%}
     <div class="col-md text-center">
