@@ -34,4 +34,16 @@ Collection consists of 42 wrestling cards. Each card features a photograph of an
  18. Earl McCready 928
  19. Maurice "The Angel" Tillet 459
  20. Dr. Ed Meske 301,704
-
+ 21. H.I. Lee 599, 051
+ 22. Lee Henning 764
+ 23. Martin "Blimp" Levy 913
+ 24. Tommy O'Toole 836
+ 25. Bob Wagner RA9972
+ 26. Mike Mazurki 459
+ 27. Nango Singh 439
+ 28. Sandy O'Donnell 095
+ 29. Pete Petersen 630
+ 30. Bobby Bruns 536
+ 31. Ken Kenneth 119
+ 32. Joe Corbett 139
+ 33. Dan O'Connor 230
