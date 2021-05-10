@@ -15,7 +15,6 @@
 {%- endcomment -%}
 {%- assign figures = include.objectid | split: ";" %}
 <div class="row">
-    {% include feature/item-figure.html objectid="Sandy_ODonnell" width="50" float="left" caption=false %}
     {% for i in figures %}
     {%- assign figure = site.data[site.metadata] | where: "objectid", i | first -%}
     <div class="col-md text-center">
@@ -25,6 +24,7 @@
             </a>
             {% unless include.caption == false %}<figcaption class="figure-caption">{% if include.caption %}{{ include.caption }}{% else %}{{ figure.title }}{% endif %}</figcaption>{% endunless %}
         </figure>
+        {% include feature/item-figure.html objectid="Sandy_ODonnell" width="50" float="left" caption=false %}
     </div>
     {% endfor %}
 </div>
