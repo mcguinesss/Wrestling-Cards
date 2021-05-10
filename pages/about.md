@@ -25,7 +25,7 @@ Collection consists of 42 wrestling cards. Each card features a photograph of an
  9. Ralph Martin
  10. Jack Claybourne 230
  11. Ben Sharpe 341,219,704
- 12. Mike Sharpe 142,704,599, 615
+ 12. Mike Sharpe 142,704,599,615
  13. The Masked Marvel 742
  14. Yukon Eric 40
  15. Bronko Nagurski 764
