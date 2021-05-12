@@ -48,4 +48,4 @@ credits: true
  32. Joe Corbett 139
  33. Dan O'Connor 230
 
-{% include feature/item-figure.html objectid="item3" width="75" %}
+{% include feature/item-figure.html objectid="item2" width="75" %}
