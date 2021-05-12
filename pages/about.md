@@ -13,7 +13,7 @@ credits: true
 ## The Wrestling Cards Collection
 *The collection consists of 42 wrestling cards. Each card features a photograph of an individual wrestler, identified by name. A number is stamped on the back of each card. Some names featured are "Whipper" Bill Watson, Bronko Nagurski, The Masked Marvel, Mike Sharpe and Ben Sharpe. A few of the wrestlers have several cards that are included in this collection. Many of these wrestlers worked in the Niagara area in the 1950s and 1960s.*
 
- {% include feature/item-figure.html objectid="pro-wrestling-super-dropkick" width="25" %}
+ {% include feature/item-figure.html objectid="The_Masked_Marvel" width="25" %}
  
   **List of Cards**
  1. Kay Bell 959
